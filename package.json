@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -12,5 +13,8 @@
   },
   "keywords": [],
   "author": "Vitor Barbosa",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.8.0"
+  }
 }
