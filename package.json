@@ -1,0 +1,16 @@
+{
+  "name": "@ziro/remove-duplicates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziro-app/remove-duplicates.git"
+  },
+  "keywords": [],
+  "author": "Vitor Barbosa",
+  "license": "ISC"
+}
